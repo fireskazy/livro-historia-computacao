@@ -19,6 +19,6 @@ Esse livro foi escrito por:
 
 | Avatar | Nome | Nickname | Email |
 | ------ | ---- | -------- | ----- |
-| Avatar | Kauê de Souza | fireskazy | [kauesouza@alunos.utfpr.edu.br](mailto:kauesouza@alunos.utfpr.edu.br)
+| Avatar | Kauê Mauri de Souza | fireskazy | [kauesouza@alunos.utfpr.edu.br](mailto:kauesouza@alunos.utfpr.edu.br)
 | Avatar | Pedro Henrique Gnoatto Rosa | raigame | [pedrorosa@alunos.utfpr.edu.br](mailto:pedrorosa@alunos.utfpr.edu.br)
 | Avatar | João Vitor Regimund | regimundj | [joaoregimund@alunos.utfpr.edu.br](mailto:joaoregimund@alunosutfpr.edu.br)
