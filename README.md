@@ -19,5 +19,6 @@ Esse livro foi escrito por:
 
 | Avatar | Nome | Nickname | Email |
 | ------ | ---- | -------- | ----- |
-| ![](https://gitlab.com/uploads/-/system/user/avatar/2578394/avatar.png?width=400)  | Jeferson Lima | jeferson.lima | [jeferson.lima@utfpr.edu.br](mailto:jeferson.lima@utfpr.edu.br)
-| ![]Avatar | Kauê de Souza | fireskazy | [kauesouza@alunos.utfpr.edu.br](mailto:kauesouza@alunos.utfpr.edu.br)
+| Avatar | Kauê de Souza | fireskazy | [kauesouza@alunos.utfpr.edu.br](mailto:kauesouza@alunos.utfpr.edu.br)
+| Avatar | Pedro Henrique Gnoatto Rosa | raigame | [pedrorosa@alunos.utfpr.edu.br](mailto:pedrorosa@alunos.utfpr.edu.br)
+| Avatar | João Vitor Regimund | regimundj | [joaoregimund@alunos.utfpr.edu.br](mailto:joaoregimund@alunosutfpr.edu.br)
