@@ -12,8 +12,6 @@ Este livro está sendo escrito pelos alunos do Curso de Engenharia da Computaç�
 1. [Futuro]()
 
 
-
-
 ## Autores
 Esse livro foi escrito por:
 
