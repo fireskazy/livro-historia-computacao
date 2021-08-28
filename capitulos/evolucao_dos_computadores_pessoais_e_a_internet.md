@@ -29,8 +29,8 @@ Com o passar dos anos, a internet foi ganhando popularidade e alcançou a maior 
 
 ### Próximo capítulo
 
-[Computação Móvel](capitulos/computacao_movel.md)
+[Computação Móvel](computacao_movel.md)
 
 ### Capítulo anterior
 
-[Evolução dos Computadores Pessoais e a Internet](capitulos/evolucao_dos_computadores_pessoais_e_a_internet.md)
+[Evolução dos Computadores Pessoais e a Internet](evolucao_dos_computadores_pessoais_e_a_internet.md)
