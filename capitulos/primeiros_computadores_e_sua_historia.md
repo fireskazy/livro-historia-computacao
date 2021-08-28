@@ -32,4 +32,4 @@ Ao longo do tempo, os computadores foram ficando menores e mais acessíveis ao p
 <br>
 
 ### Próximo Capítulo
-[Evolução dos Computadores Pessoais e a Internet](capitulos/evolucao_dos_computadores_pessoais_e_a_internet.md)
+[Evolução dos Computadores Pessoais e a Internet](evolucao_dos_computadores_pessoais_e_a_internet.md)
